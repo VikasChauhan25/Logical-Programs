@@ -1,2 +1,2 @@
-# Logical-Programs
+# Logical-Programs(Java)
  easy way understand
